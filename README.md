@@ -1,6 +1,6 @@
 ### Hola, bienvenido a mi perfil de Github 👋 
 
-Me apasiona el entorno de Apple y actualmente estoy estudiando Swift para convertirme en iOS Developer.
+Me apasiona el entorno de Apple y actualmente estoy estudiando **Swift** para convertirme en iOS Developer.
 Durante los últimos dos años probé algunas de las siguientes tecnologías:
 
 - Desarrollo de aplicaciones nativas para iOS con Swift
